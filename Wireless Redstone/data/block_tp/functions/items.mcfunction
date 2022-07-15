@@ -1,0 +1,4 @@
+execute at @e[nbt={Item:{id:"minecraft:redstone"}}] if block ~ ~-1 ~ redstone_lamp run summon armor_stand ~ ~-1 ~ {ArmorItems:[{},{},{},{id:"leather_helmet",Count:1b,tag:{display:{color:11546150}}}],HandItems:[{},{}],Tags:["reciver"]}
+execute as @e[nbt={Item:{id:"minecraft:redstone"}}] at @s if block ~ ~-1 ~ redstone_lamp run kill @s
+execute at @e[nbt={Item:{id:"minecraft:diamond"}}] if block ~ ~-1 ~ redstone_lamp run summon armor_stand ~ ~-1 ~ {ArmorItems:[{},{},{},{id:"leather_helmet",Count:1b,tag:{display:{color:11546150}}}],HandItems:[{},{}],Tags:["transmitter"]}
+execute as @e[nbt={Item:{id:"minecraft:diamond"}}] at @s if block ~ ~-1 ~ redstone_lamp run kill @s
