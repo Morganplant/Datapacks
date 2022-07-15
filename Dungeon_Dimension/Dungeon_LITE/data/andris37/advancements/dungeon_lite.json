@@ -1,0 +1,23 @@
+{
+    "display": {
+        "title": {
+            "text": "Dungeon Dimension LITE"
+        },
+        "description": {
+            "text": ""
+        },
+        "icon": {
+            "item": "minecraft:mossy_stone_bricks"
+        },
+        "frame": "goal",
+        "show_toast": false,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+        "imp": {
+            "trigger": "minecraft:impossible"
+        }
+    },
+    "parent": "andris37:dungeon"
+}

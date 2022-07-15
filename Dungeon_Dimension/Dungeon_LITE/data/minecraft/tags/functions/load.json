@@ -1,0 +1,6 @@
+{
+  "values":[
+	"dungeon:init",
+	"rng:init"
+  ]
+}
