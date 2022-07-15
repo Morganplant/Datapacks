@@ -1,0 +1,24 @@
+{
+    "display": {
+        "title": {
+            "text": "Backpacks!"
+        },
+        "description": {
+            "text": "Obtain a BackPack"
+        },
+        "icon": {
+            "item": "minecraft:warped_fungus_on_a_stick",
+            "nbt": "{display:{Name:\"{\\\"text\\\":\\\"Backpacks!\\\",\\\"italic\\\":\\\"false\\\"}\"},Unbreakable:true,Damage:100}"
+        },
+        "frame": "goal",
+        "show_toast": false,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+        "imp": {
+            "trigger": "minecraft:impossible"
+        }
+    },
+    "parent": "andris37:root"
+}

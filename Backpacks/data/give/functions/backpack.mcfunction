@@ -1,0 +1,1 @@
+execute at @s run give @p warped_fungus_on_a_stick{Damage:100,Unbreakable:1b,display:{Name:"{\"text\":\"Backpack\",\"italic\":\"false\"}"},Unbreakable:true}

@@ -1,0 +1,23 @@
+{
+    "display": {
+        "title": {
+            "text": "Backpacks"
+        },
+        "description": {
+            "text": "Obtain a /dev/null"
+        },
+        "icon": {
+            "item": "minecraft:end_crystal"
+        },
+        "frame": "goal",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "imp": {
+            "trigger": "minecraft:impossible"
+        }
+    },
+    "parent": "andris37:root"
+}
