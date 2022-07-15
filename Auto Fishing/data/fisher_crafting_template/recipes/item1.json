@@ -1,0 +1,21 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "OOO",
+    "OXO",
+    "OOO"
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:barrel",
+      "data": 0
+    },
+    "O": {
+      "item": "minecraft:cobweb",
+      "data": 0
+    }
+  },
+  "result": {
+    "item": "minecraft:knowledge_book"
+  }
+}

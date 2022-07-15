@@ -1,0 +1,1 @@
+give @p armor_stand{display:{Name:'[{"text":"Fisher","italic":false,"color":"dark_aqua"}]',Lore:['[{"text":"Automatically Fishes For items","italic":false}]']},EntityTag:{Tags:["fisher"],Invisible:1b,NoGravity:1b,NoBasePlate:1b,Small:1b,CustomName:'{"text":"Fisher"}',CustomNameVisible:1b}} 1

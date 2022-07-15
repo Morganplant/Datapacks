@@ -1,0 +1,1 @@
+execute if score Timer1 timer matches 50 run execute as @e[tag=fisher] at @s run loot insert ~ ~ ~ fish minecraft:gameplay/fishing ~ ~ ~

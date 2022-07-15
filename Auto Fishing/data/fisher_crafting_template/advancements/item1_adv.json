@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "Unlocked": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "fisher_crafting_template:item1"
+            }
+        }
+    },
+    "rewards": {
+        "function": "fisher_crafting_template:crafted_item1"
+    }
+}

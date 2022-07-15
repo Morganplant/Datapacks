@@ -1,0 +1,7 @@
+{
+	"values": [
+		"fisher:create_fisher",
+		"fisher:insert_loot",
+		"setup:scoreboards_tick"
+	]
+}

@@ -1,0 +1,23 @@
+{
+    "display": {
+        "title": {
+            "text": "Auto Fishing"
+        },
+        "description": {
+            "text": ""
+        },
+        "icon": {
+            "item": "minecraft:tropical_fish"
+        },
+        "frame": "goal",
+        "show_toast": false,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+        "imp": {
+            "trigger": "minecraft:impossible"
+        }
+    },
+    "parent": "andris37:root"
+}
