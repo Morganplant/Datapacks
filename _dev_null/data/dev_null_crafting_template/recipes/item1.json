@@ -1,0 +1,27 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "E#E",
+    "OXO",
+    "E#E"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:end_crystal"
+    },
+    "X": {
+      "item": "minecraft:netherite_block",
+      "data": 0
+    },
+    "O": {
+      "item": "minecraft:netherite_pickaxe",
+      "data": 0
+    },
+    "E":{
+      "item": "minecraft:netherite_ingot"
+    }
+  },
+  "result": {
+    "item": "minecraft:knowledge_book"
+  }
+}

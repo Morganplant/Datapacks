@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "Unlocked": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "dev_null_crafting_template:item1"
+            }
+        }
+    },
+    "rewards": {
+        "function": "dev_null_crafting_template:crafted_item1"
+    }
+}

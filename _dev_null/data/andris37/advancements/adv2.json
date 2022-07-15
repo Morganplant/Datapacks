@@ -1,0 +1,23 @@
+{
+    "display": {
+        "title": {
+            "text": "Stack Overflow"
+        },
+        "description": {
+            "text": "Obtain a /dev/null"
+        },
+        "icon": {
+            "item": "minecraft:end_crystal"
+        },
+        "frame": "challenge",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": true
+    },
+    "criteria": {
+        "imp": {
+            "trigger": "minecraft:impossible"
+        }
+    },
+    "parent": "andris37:adv1"
+}
