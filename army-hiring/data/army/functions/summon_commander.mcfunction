@@ -1,0 +1,3 @@
+summon minecraft:villager ~ ~ ~ {Invulnerable:0b,PersistenceRequired:1b,NoAI:1,Invulnerable:1,Age:2147483647,CustomName:'{"text":"Army Commander"}',VillagerData:{type:plains,profession:weaponsmith,level:99},Offers:{Recipes:[{maxUses:9999999999,rewardExp:0b,buy:{id:iron_ingot,Count:24},buyB:{id:cooked_porkchop,Count:16},sell:{id:axolotl_spawn_egg,Count:1,tag:{EntityTag:{id:iron_golem,PlayerCreated:0,PersistenceRequired:1b,Silent:1b,Tags:["army.footsoldier"],CustomName:'{"text":"Footsoldier"}',Attributes:[{Name:"generic.max_health",Base:20f},{Name:"generic.attack_knockback",Base:0.7f}]},display:{Name:'[{"text":"Foot Soldier","italic":false}]',Lore:['[{"text":"Spawns A Footsoldier for your Army","italic":false}]']}}}}]}}
+
+scoreboard players reset @s army.commander

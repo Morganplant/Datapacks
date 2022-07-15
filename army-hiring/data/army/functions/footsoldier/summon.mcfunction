@@ -1,0 +1,2 @@
+#summon minecraft:wolf ~ ~ ~ {Silent:1b,PersistenceRequired:1b,Tags:["army.footsoldier"],CustomName:'{"text":"Footsoldier"}',Attributes:[{Name:generic.attack_damage,Base:6},{Name:generic.armor,Base:15}],ActiveEffects:[{Id:10b,Amplifier:0b,Duration:10000000}]}
+summon minecraft:wolf ~ ~ ~ {Silent:1b,PersistenceRequired:1b,Tags:["army.footsoldier"],CustomName:'{"text":"Footsoldier"}',Attributes:[{Name:generic.attack_damage,Base:6},{Name:generic.armor,Base:15}],ActiveEffects:[{Id:10b,Amplifier:0b,Duration:10000000}]}

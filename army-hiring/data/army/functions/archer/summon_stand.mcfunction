@@ -1,0 +1,3 @@
+summon minecraft:armor_stand ~ ~ ~ {NoGravity:1b,Invulnerable:1b,ShowArms:1b,NoBasePlate:1b,Tags:["army.archer_stand"],DisabledSlots:4144959,HandItems:[{id:"minecraft:bow",Count:1b},{}],ArmorItems:[{id:"minecraft:leather_boots",Count:1b},{id:"minecraft:leather_leggings",Count:1b},{id:"minecraft:leather_chestplate",Count:1b},{id:"minecraft:leather_helmet",Count:1b}]}
+
+execute as @e[limit=1,sort=nearest,tag=army.archer_stand] run function army:archer/stand_spawned

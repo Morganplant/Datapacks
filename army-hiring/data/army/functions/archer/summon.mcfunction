@@ -1,0 +1,1 @@
+summon minecraft:wolf ~ ~ ~ {Silent:1b,PersistenceRequired:1b,Tags:["army.archer"],CustomName:'{"text":"Archer"}',Attributes:[{Name:generic.attack_damage,Base:1},{Name:generic.armor,Base:7}],ActiveEffects:[{Id:10b,Amplifier:0b,Duration:10000000}]}

@@ -1,0 +1,18 @@
+{
+    "display": {
+        "title": "Andris37",
+        "description": "Modified the pack to use Golems rather than wolves",
+        "icon": {
+            "item": "minecraft:player_head",
+            "nbt": "{SkullOwner: 'Andris37'}"
+        },
+        "announce_to_chat": false,
+        "show_toast": false
+    },
+    "parent": "global:parardh",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}

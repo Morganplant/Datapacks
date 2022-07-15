@@ -1,0 +1,17 @@
+{
+    "display": {
+        "title": "Army Hiring",
+        "description": "Lets you hire armies!",
+        "icon": {
+            "item": "iron_sword"
+        },
+        "announce_to_chat": false,
+        "show_toast": false
+    },
+    "parent": "global:parardh",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}
